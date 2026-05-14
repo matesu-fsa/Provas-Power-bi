@@ -1,0 +1,11 @@
+ID_EQUIPAMENTO_A,NOME_EQUIPAMENTO,TIPO,DATA_AQUISICAO
+1,TORNO CNC,Sistema,18 de agosto de 2018
+2,EMPILHADEIRA,Veículo,11 de agosto de 2022
+3,SERVIDOR,Sistema,28 de maio de 2017
+4,FRESADORA,Máquina,7 de novembro de 2022
+5,CAMINHÃO,Máquina,21 de março de 2022
+6,ROTEADOR,Sistema,18 de abril de 2018
+7,PRENSA HIDRÁULICA,Máquina,3 de outubro de 2021
+8,NOTEBOOK,Sistema,8 de agosto de 2021
+9,COMPRESSOR,Veículo,11 de maio de 2020
+10,ESTEIRA,Veículo,30 de janeiro de 2021
